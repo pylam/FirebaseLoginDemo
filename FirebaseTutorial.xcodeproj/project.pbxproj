@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E74DA4DC1E2C87D700A98255 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E74DA4DB1E2C87D700A98255 /* GoogleService-Info.plist */; };
 		E7AB1457DD62907636696635 /* Pods_FirebaseTutorial.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8693BB5B2CA91CD1B07A6DB2 /* Pods_FirebaseTutorial.framework */; };
-		E7F9D4491E2C5E2B00FF806C /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E7F9D4481E2C5E2B00FF806C /* GoogleService-Info.plist */; };
 		F4443AE01DF2DFDA00800C92 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4443ADF1DF2DFDA00800C92 /* AppDelegate.swift */; };
 		F4443AE51DF2DFDA00800C92 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4443AE31DF2DFDA00800C92 /* Main.storyboard */; };
 		F4443AE71DF2DFDA00800C92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4443AE61DF2DFDA00800C92 /* Assets.xcassets */; };
@@ -23,7 +23,7 @@
 		441BB3A7FB4E37B88AFD8310 /* Pods-FirebaseTutorial.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FirebaseTutorial.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FirebaseTutorial/Pods-FirebaseTutorial.debug.xcconfig"; sourceTree = "<group>"; };
 		468FD35AD615B1B565206749 /* Pods-FirebaseTutorial.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FirebaseTutorial.release.xcconfig"; path = "Pods/Target Support Files/Pods-FirebaseTutorial/Pods-FirebaseTutorial.release.xcconfig"; sourceTree = "<group>"; };
 		8693BB5B2CA91CD1B07A6DB2 /* Pods_FirebaseTutorial.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FirebaseTutorial.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E7F9D4481E2C5E2B00FF806C /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		E74DA4DB1E2C87D700A98255 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		F4443ADC1DF2DFDA00800C92 /* FirebaseTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirebaseTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4443ADF1DF2DFDA00800C92 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F4443AE41DF2DFDA00800C92 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -94,7 +94,7 @@
 				F4443AE31DF2DFDA00800C92 /* Main.storyboard */,
 				F4443AE61DF2DFDA00800C92 /* Assets.xcassets */,
 				F4443AE81DF2DFDA00800C92 /* LaunchScreen.storyboard */,
-				E7F9D4481E2C5E2B00FF806C /* GoogleService-Info.plist */,
+				E74DA4DB1E2C87D700A98255 /* GoogleService-Info.plist */,
 				F4443AEB1DF2DFDA00800C92 /* Info.plist */,
 			);
 			path = FirebaseTutorial;
@@ -164,7 +164,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F4443AEA1DF2DFDA00800C92 /* LaunchScreen.storyboard in Resources */,
-				E7F9D4491E2C5E2B00FF806C /* GoogleService-Info.plist in Resources */,
+				E74DA4DC1E2C87D700A98255 /* GoogleService-Info.plist in Resources */,
 				F4443AE71DF2DFDA00800C92 /* Assets.xcassets in Resources */,
 				F4443AE51DF2DFDA00800C92 /* Main.storyboard in Resources */,
 			);
